@@ -1,0 +1,27 @@
+
+
+Subdomínio encontrado: testhtml5.vulnweb.com - IP: 
+Subdomínio encontrado: testphp.vulnweb.com - IP: 
+Subdomínio encontrado: testasp.vulnweb.com - IP: 
+Subdomínio encontrado: testaspnet.vulnweb.com - IP: 
+Subdomínio encontrado: rest.vulnweb.com - IP: 
+Subdomínio encontrado: testhtml5.vulnweb.com - IP: 
+Subdomínio encontrado: testphp.vulnweb.com - IP: 
+Subdomínio encontrado: testasp.vulnweb.com - IP: 
+Subdomínio encontrado: testaspnet.vulnweb.com - IP: 
+Subdomínio encontrado: rest.vulnweb.com - IP: 
+Subdomínio: testhtml5.vulnweb.com - IP: 
+Subdomínio: testphp.vulnweb.com - IP: 
+Subdomínio: testasp.vulnweb.com - IP: 
+Subdomínio: testaspnet.vulnweb.com - IP: 
+Subdomínio: rest.vulnweb.com - IP: 
+Subdomínio: testhtml5.vulnweb.com  
+Subdomínio: testphp.vulnweb.com  
+Subdomínio: testasp.vulnweb.com  
+Subdomínio: testaspnet.vulnweb.com  
+Subdomínio: rest.vulnweb.com  
+Subdomínio: testhtml5.vulnweb.com 
+Subdomínio: testphp.vulnweb.com 
+Subdomínio: testasp.vulnweb.com 
+Subdomínio: testaspnet.vulnweb.com 
+Subdomínio: rest.vulnweb.com 
